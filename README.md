@@ -1,5 +1,7 @@
 # Curso-Big-Data-Machine-Learning
+
 09-10-2023
+
 Repaso Python - Repasamos los fundamentos de Python, desde las variables y sus tipos hasta los bucles, funciones y diccionarios pasando por las listas y los operadores.
 
 Ejercicios Condicionales en Python - Se trabaja con mayor profundidad las condicionales en Python, con 3 ejercicios prácticos que permiten poner a prueba los conocimientos adquiridos en este ámbito.
@@ -7,6 +9,7 @@ Ejercicios Condicionales en Python - Se trabaja con mayor profundidad las condic
 Bucles en Python - Dentro de Python iteramos con for mediante ejercicios prácticos así como generar secuencias de números y repetir con while.
 
 10-10-2023
+
 Pandas - Paula García.ipynb - Repaso pandas
 
 SpaceX - 1 - Data Collection Api v2 - Proyecto recolección de Datos de SpaceX.
