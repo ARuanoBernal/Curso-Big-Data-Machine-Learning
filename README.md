@@ -15,8 +15,8 @@ Bucles en Python - Dentro de Python iteramos con for mediante ejercicios prácti
 10-10-2023
 
 
-Pandas - Repaso pandas
+Pandas - Repaso pandas.
 
 SpaceX - 1 - Data Collection Api v2 - Proyecto recolección de Datos de SpaceX.
 
-SpaceX - 4 - EDA with Data Visualization - Gráficas con datos de SpaceX
+SpaceX - 4 - EDA with Data Visualization - Gráficas con datos de SpaceX.
