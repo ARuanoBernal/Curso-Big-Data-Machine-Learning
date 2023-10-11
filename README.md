@@ -9,10 +9,13 @@ Ejercicios Condicionales en Python - Se trabaja con mayor profundidad las condic
 
 Bucles en Python - Dentro de Python iteramos con for mediante ejercicios prácticos así como generar secuencias de números y repetir con while.
 
+
+
+
 10-10-2023
 
 
-Pandas - Paula García.ipynb - Repaso pandas
+Pandas - Repaso pandas
 
 SpaceX - 1 - Data Collection Api v2 - Proyecto recolección de Datos de SpaceX.
 
