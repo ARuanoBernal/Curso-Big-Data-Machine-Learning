@@ -25,4 +25,12 @@ SpaceX - 4 - EDA with Data Visualization - Gráficas con datos de SpaceX.
 
 
 
+
+
 11-10-2023
+
+Folium - Aprendizaje de la herramienta folium para generar mapas prácticos en distintos ejercicios.
+
+Introducción a Machine Learning con Scikit-Learn - Conceptos básicos e iniciación a Machine Learning con Scikit-Learn.
+
+Prophet v2 - Predecir el valor de Bitcoin - Ejercicio práctico utilizando Prophet para trabajar con valores del Bitcoin.
