@@ -20,3 +20,9 @@ Pandas - Repaso pandas.
 SpaceX - 1 - Data Collection Api v2 - Proyecto recolección de Datos de SpaceX.
 
 SpaceX - 4 - EDA with Data Visualization - Gráficas con datos de SpaceX.
+
+
+
+
+
+11-10-2023
