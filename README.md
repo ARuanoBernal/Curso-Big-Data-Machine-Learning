@@ -37,6 +37,7 @@ Prophet v2 - Predecir el valor de Bitcoin - Ejercicio práctico utilizando Proph
 
 
 13-10-2023
+
 Interactive Visual Analytics con Folium - Aplicación de Folium a la práctica SpaceX.
 
 Machine Learning Predicciones - Predicciones con Machine Learning.
