@@ -34,3 +34,11 @@ Folium - Aprendizaje de la herramienta folium para generar mapas prácticos en d
 Introducción a Machine Learning con Scikit-Learn - Conceptos básicos e iniciación a Machine Learning con Scikit-Learn.
 
 Prophet v2 - Predecir el valor de Bitcoin - Ejercicio práctico utilizando Prophet para trabajar con valores del Bitcoin.
+
+
+13-10-2023
+Interactive Visual Analytics con Folium - Aplicación de Folium a la práctica SpaceX.
+
+Machine Learning Predicciones - Predicciones con Machine Learning.
+
+Matplotlib y Seaborn - Uso de Matplotlib y Seaborn con distintas aplicaciones.
